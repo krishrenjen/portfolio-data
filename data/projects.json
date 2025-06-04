@@ -1,0 +1,54 @@
+[
+    {
+        "title":"SB Attendance App",
+        "type": "Website",
+        "description":"Created a NextJS website that allows students to scan a QR code to track their club and event attendance. It also allows club officers to create check in events, view all students who have checked in. They can also restrict login to students located at the school using IP and geolocation. They can also export data to a spreadsheet for easy viewing and logging. Students can view all their attendance for a specific club as well.",
+        "date": "MAY 2024",
+        "primaryHref": "https://github.com/krishrenjen/sbhs-club-attendance",
+        "links": [
+            {"text": "GitHub Repository", "href": "https://github.com/krishrenjen/sbhs-club-attendance"}
+        ],
+        "tags":[
+            {"title": "School"},
+            {"title": "TypeScript", "type":"Language"},
+            {"title": "NextJS", "type":"Tool"},
+            {"title": "PostgresSQL", "type":"Tool"},
+            {"title": "Prisma", "type":"Tool"}
+        ]
+    },
+    {
+        "title":"Circlize App",
+        "type": "Website",
+        "description":"Final project for mobile application class\nAn Android app that allows users to create or join Circles, in which they can then post messages to the stream. Additionally, they can change their username, and profile pictures. Features a login and signup screen as well.\nConnected to Flask server through an API, which would then connect to the Firebase database to write and read data.",
+        "date": "JUNE 2023",
+        "primaryHref": "/noresource",
+        "links": [
+            {"text": "GitHub Repository", "href": "/noresource"}
+        ],
+        "tags":[
+            {"title": "School"},
+            {"title": "Java", "type":"Language"},
+            {"title": "Android Studio", "type":"Tool"},
+            {"title": "Python", "type":"Language"},
+            {"title": "Flask", "type":"Tool"},
+            {"title": "Firebase", "type":"Tool"}
+        ]
+    },
+    {
+        "title":"Weather App",
+        "type": "Website",
+        "description":"Project in mobile application class\nDeveloped an Android weather app that utilized the OpenWeather API to display weather information. Design inspired by the Apple weather app.",
+        "date": "January 2023",
+        "primaryHref": "https://drive.google.com/file/d/1St4PNV4kq08qbGj35996Z6zBJxuZtf3A/view?usp=sharing",
+        "links": [
+            {"text": "GitHub Repository", "href": "https://github.com/krishrenjen/crystal_weather"},
+            {"text": "MainActivity.java","href": "https://github.com/krishrenjen/crystal_weather/blob/master/app/src/main/java/com/example/crystalweather/MainActivity.java"}
+        ],
+        "tags":[
+            {"title": "School"},
+            {"title": "Java", "type":"Language"},
+            {"title": "Android Studio", "type":"Tool"},
+            {"title": "OpenWeather", "type":"Tool"}
+        ]
+    }
+]
