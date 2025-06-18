@@ -6,11 +6,10 @@
       "date": "May 2025 - Aug 2025",
       "logo": "/exp_images/moonpreneur_logo.png",
       "bullets": [
-        "**Developed full-stack features** in `.NET Core` and `Next.js`, contributing to **production applications** in an **Agile** environment.",
-        "Built **RESTful APIs** with **Clean Architecture**, `JWT` authentication, and **role-based access control**.",
-        "Designed **responsive UIs** using `Next.js`, `JavaScript`, and `HTML/CSS`; integrated frontend with backend services.",
-        "Wrote **optimized queries** and **stored procedures** in `SQL Server` using `Entity Framework Core`.",
-        "Collaborated via `Git`, `Jira`, `Azure DevOps`, and deployed through **CI/CD pipelines**."
+        "Developed a full-stack web application using Next.js, .NET Core, and SQL Server in a production environment",
+        "Built RESTful APIs with .NET Core to handle user authentication (JWT), data retrieval, and CRUD operations",
+        "Designed responsive user interfaces with Next.js and TailwindCSS, ensuring a seamless user experience across devices",
+        "Wrote optimized SQL queries to efficiently retrieve and manipulate data in SQL Server"
       ],
       "primaryHref": "https://moonpreneur.com/",
       "tags": [
@@ -121,7 +120,7 @@
       "courses": {
         "Computer Science": [
           "AP Computer Science A",
-          { "name": "Mobile App Development", "highlight": true },
+          { "name": "Android App Development", "highlight": true },
           { "name": "VR & Game Design", "highlight": true },
           "Data Structures",
           "Computer Science Capstone"
