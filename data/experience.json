@@ -16,7 +16,7 @@
         { "title": "Typescript", "type": "Language" },
         { "title": ".NET Core", "type": "Tool" },
         { "title": "Next.js", "type": "Tool" },
-        { "title": "SQL Server", "type": "Other" },
+        { "title": "SQL Server", "type": "Tool" },
         { "title": "Entity Framework Core", "type": "Tool" },
         { "title": "C#", "type": "Language" },
         { "title": "Next.js", "type": "Tool" },
