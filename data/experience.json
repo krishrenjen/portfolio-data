@@ -116,6 +116,7 @@
       "date": "Sep 2020 - Jun 2024",
       "degree": "High School Diploma",
       "logo": "/exp_images/sbhs_logo.jpg",
+      "primaryHref": "https://sbhs.sbschools.org/",
       "bullets": ["GPA: 4.4 *(weighted)*, 4.0 *(unweighted)*"],
       "courses": {
         "Computer Science": [
