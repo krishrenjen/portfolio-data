@@ -15,11 +15,10 @@
       "tags": [
         { "title": "Typescript", "type": "Language" },
         { "title": ".NET Core", "type": "Tool" },
-        { "title": "Next.js", "type": "Tool" },
+        { "title": "Next.JS", "type": "Tool" },
         { "title": "SQL Server", "type": "Tool" },
         { "title": "Entity Framework Core", "type": "Tool" },
         { "title": "C#", "type": "Language" },
-        { "title": "Next.js", "type": "Tool" },
         { "title": "TailwindCSS", "type": "Tool" },
         { "title": "Git", "type": "Tool" }
       ]
@@ -37,8 +36,9 @@
       "primaryHref": "https://www.code4tomorrow.org",
       "links": [{ "text": "GitHub Repository", "href": "https://github.com/code4tomorrow/c4t-web", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" }],
       "tags": [
+        { "title": "Volunteer" },
         { "title": "Typescript", "type": "Language" },
-        { "title": "Next.js", "type": "Tool" },
+        { "title": "Next.JS", "type": "Tool" },
         { "title": "TailwindCSS", "type": "Tool" },
         { "title": "Vercel", "type": "Tool" }
       ]
