@@ -126,7 +126,7 @@
           "Data Structures",
           "Computer Science Capstone"
         ],
-        "Statistics": [{ "name": "AP Statistics", "highlight": true }, "AP Calculus BC"]
+        "Math": [{ "name": "AP Statistics", "highlight": true }, "AP Calculus BC"]
       },
       "tags": []
     }
