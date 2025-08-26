@@ -29,6 +29,11 @@
         "title": "Prisma",
         "color": "45,55,72",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+      },
+      {
+        "title": "Redis",
+        "color": "216,44,32",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
       }
     ]
   },
