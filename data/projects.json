@@ -33,7 +33,7 @@
       {
         "title": "Redis",
         "color": "216,44,32",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg"
       }
     ]
   },
