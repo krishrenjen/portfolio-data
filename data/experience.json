@@ -105,30 +105,64 @@
           },
           {
             "name": "Computer Architecture",
-            "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-211-computer-architecture"
+            "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-211-computer-architecture",
+            "highlight": true
+          },
+          {
+            "name": "Design and Analysis of Computer Algorithms",
+            "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms",
+            "inProgress": true,
+            "highlight": true
           },
           {
             "name": "Discrete Structures I",
-            "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-205-introduction-to-discrete-structures-i",
-            "highlight": true
+            "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-205-introduction-to-discrete-structures-i"
           }
         ],
         "Math": [
-          "Linear Algebra",
-          { "name": "Multivariable Calculus", "highlight": true },
+          {
+            "name": "Linear Algebra",
+            "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/948-01-640-250-introductory-linear-algebra"
+          },
+          {
+            "name": "Multivariable Calculus",
+            "highlight": true,
+            "href": "https://math.rutgers.edu/component/content/article/949-01-640-251-multivariable-calculus"
+          },
+          {
+            "name": "Differential Equations",
+            "inProgress": true,
+            "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/950-01-640-252-elementary-differential-equations"
+          },
           {
             "name": "Introduction to Mathematical Reasoning",
-            "inProgress": true
+            "href": "https://www.math.rutgers.edu/academics/undergraduate/course-descriptions/954-01-640-300-introduction-to-mathematical-reasoning"
           },
           {
             "name": "Math Theory of Probability",
-            "inProgress": true
+            "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/989-01-640-477-mathematical-theory-of-probability"
+          },
+          {
+            "name": "Math Theory of Statistics",
+            "href": "https://math.rutgers.edu/component/content/article/991-01-640-481-mathematical-theory-of-statistics",
+            "inProgress": true,
+            "highlight": true
           }
         ],
         "Statistics": [
           {
             "name": "Statistics II",
-            "inProgress": true
+            "href": "https://statistics.rutgers.edu/academics/undergraduate/course-descriptions/962-01-650-302-statistics-ii"
+          },
+          {
+            "name": "Applied Multivariate Analysis",
+            "inProgress": true,
+            "href": "https://statistics.rutgers.edu/course-descriptions/course-synopses/517-01-960-467-applied-multivariate-analysis-3"
+          },
+          {
+            "name": "Introduction to Experimental Design",
+            "inProgress": true,
+            "href": "https://statistics.rutgers.edu/course-descriptions/course-synopses/522-01-960-490-introduction-to-experimental-design-3"
           }
         ]
       }
