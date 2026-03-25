@@ -23,7 +23,9 @@
         { "title": "TailwindCSS", "type": "Tool" },
         { "title": "Git", "type": "Tool" }
       ]
-    },
+    }
+  ],
+  "volunteer": [
     {
       "company": "Code 4 Tomorrow",
       "title": "Website Design Member",
@@ -44,7 +46,6 @@
         }
       ],
       "tags": [
-        { "title": "Volunteer" },
         { "title": "TypeScript", "type": "Language" },
         { "title": "Next.JS", "type": "Tool" },
         { "title": "TailwindCSS", "type": "Tool" },
@@ -76,7 +77,6 @@
         }
       ],
       "tags": [
-        { "title": "Volunteer" },
         { "title": "Python", "type": "Language" },
         { "title": "HTML5", "type": "Language" },
         { "title": "CSS3", "type": "Language" },
