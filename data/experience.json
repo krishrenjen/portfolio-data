@@ -2,7 +2,7 @@
   "work_experience": [
     {
       "company": "Latent Health",
-      "title": "ML/SWE Intern",
+      "title": "ML / SWE Intern",
       "date": "Jun 2026 - Aug 2026",
       "logo": "https://krishrenjen.github.io/portfolio-data/images/latenthealth.jpg",
       "bullets": ["Incoming ML/SWE Intern"],
@@ -24,7 +24,7 @@
       "tags": [
         { "title": "TypeScript", "type": "Language" },
         { "title": ".NET Core", "type": "Tool" },
-        { "title": "Next.JS", "type": "Tool" },
+        { "title": "Next.js", "type": "Tool" },
         { "title": "SQL Server", "type": "Tool" },
         { "title": "Entity Framework Core", "type": "Tool" },
         { "title": "C#", "type": "Language" },
@@ -96,12 +96,12 @@
   "education": [
     {
       "school": "Rutgers University - New Brunswick",
-      "date": "Sep 2024 - May 2028 (Expected)",
-      "degree": "B.S. in Computer Science; B.A. in Statistics–Math (Joint Major)",
+      "date": "Sep 2024 - Dec 2027 (Expected)",
+      "degree": "B.S. in Computer Science; B.A. in Mathematics",
       "logo": "/exp_images/rutgers_logo.png",
       "primaryHref": "https://www.rutgers.edu/",
       "bullets": [
-        "GPA: 4.0 *(overall)*, 4.0 *(CS)*, 4.0 *(Statistics-Math)*",
+        "GPA: 4.0 *(overall)*, 4.0 *(CS)*, 4.0 *(Math)*",
         "Dean's List: Fall 2024-Present"
       ],
       "courses": {
@@ -121,10 +121,6 @@
             "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms",
             "inProgress": true,
             "highlight": true
-          },
-          {
-            "name": "Discrete Structures I",
-            "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-205-introduction-to-discrete-structures-i"
           }
         ],
         "Math": [
@@ -139,7 +135,6 @@
           },
           {
             "name": "Differential Equations",
-            "inProgress": true,
             "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/950-01-640-252-elementary-differential-equations"
           },
           {
@@ -149,28 +144,6 @@
           {
             "name": "Math Theory of Probability",
             "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/989-01-640-477-mathematical-theory-of-probability"
-          },
-          {
-            "name": "Math Theory of Statistics",
-            "href": "https://math.rutgers.edu/component/content/article/991-01-640-481-mathematical-theory-of-statistics",
-            "inProgress": true,
-            "highlight": true
-          }
-        ],
-        "Statistics": [
-          {
-            "name": "Statistics II",
-            "href": "https://statistics.rutgers.edu/academics/undergraduate/course-descriptions/962-01-650-302-statistics-ii"
-          },
-          {
-            "name": "Applied Multivariate Analysis",
-            "inProgress": true,
-            "href": "https://statistics.rutgers.edu/course-descriptions/course-synopses/517-01-960-467-applied-multivariate-analysis-3"
-          },
-          {
-            "name": "Introduction to Experimental Design",
-            "inProgress": true,
-            "href": "https://statistics.rutgers.edu/course-descriptions/course-synopses/522-01-960-490-introduction-to-experimental-design-3"
           }
         ]
       }
