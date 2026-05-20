@@ -101,7 +101,8 @@
       "logo": "/exp_images/rutgers_logo.png",
       "primaryHref": "https://www.rutgers.edu/",
       "bullets": [
-        "GPA: 4.0 *(overall)*, 4.0 *(CS)*, 4.0 *(Math)*",
+        "**GPA**: 3.974 *(overall)*",
+        "**Major GPA**:, 4.0 *(CS)*, 4.0 *(Math)*",
         "Dean's List: Fall 2024-Present"
       ],
       "courses": {
