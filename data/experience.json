@@ -102,15 +102,15 @@
       "primaryHref": "https://www.rutgers.edu/",
       "bullets": [
         "**GPA**: 3.974 *(overall)*",
-        "**Major GPA**:, 4.0 *(CS)*, 4.0 *(Math)*",
-        "Dean's List: Fall 2024-Present"
+        "**Major GPA**: 4.0 *(CS)*, 4.0 *(Math)*",
+        "**Dean's List**: Fall 2024-Present"
       ],
       "courses": {
         "Computer Science": [
           {
             "name": "Data Structures",
             "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-112-data-structures",
-            "highlight": true
+            "highlight": false
           },
           {
             "name": "Computer Architecture",
@@ -118,9 +118,8 @@
             "highlight": true
           },
           {
-            "name": "Design and Analysis of Computer Algorithms",
+            "name": " Algorithms",
             "href": "https://www.cs.rutgers.edu/academics/undergraduate/course-synopses/course-details/01-198-344-design-and-analysis-of-computer-algorithms",
-            "inProgress": true,
             "highlight": true
           }
         ],
@@ -131,7 +130,7 @@
           },
           {
             "name": "Multivariable Calculus",
-            "highlight": true,
+            "highlight": false,
             "href": "https://math.rutgers.edu/component/content/article/949-01-640-251-multivariable-calculus"
           },
           {
