@@ -1,6 +1,14 @@
 {
   "work_experience": [
     {
+      "company": "Latent Health",
+      "title": "ML/SWE Intern",
+      "date": "Jun 2026 - Aug 2026",
+      "logo": "https://krishrenjen.github.io/portfolio-data/images/latent.png",
+      "bullets": ["Incoming ML/SWE Intern"],
+      "primaryHref": "https://latenthealth.com/"
+    },
+    {
       "company": "Moonpreneur",
       "title": "Software Engineer Intern",
       "date": "May 2025 - Aug 2025",
