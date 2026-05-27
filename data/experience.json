@@ -126,7 +126,8 @@
         "Math": [
           {
             "name": "Linear Algebra",
-            "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/948-01-640-250-introductory-linear-algebra"
+            "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/948-01-640-250-introductory-linear-algebra",
+            "highlight": true
           },
           {
             "name": "Multivariable Calculus",
@@ -144,6 +145,11 @@
           {
             "name": "Math Theory of Probability",
             "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/989-01-640-477-mathematical-theory-of-probability"
+          },
+          {
+            "name": "Math Theory of Statistics",
+            "href": "https://math.rutgers.edu/academics/undergraduate/course-descriptions/991-01-640-481-mathematical-theory-of-statistics",
+            "highlight": true
           }
         ]
       }
@@ -154,7 +160,7 @@
       "degree": "High School Diploma",
       "logo": "/exp_images/sbhs_logo.jpg",
       "primaryHref": "https://sbhs.sbschools.org/",
-      "bullets": ["GPA: 4.4 *(weighted)*, 4.0 *(unweighted)*"],
+      "bullets": ["**GPA**: 4.4 *(weighted)*, 4.0 *(unweighted)*"],
       "courses": {
         "Computer Science": [
           "AP Computer Science A",
