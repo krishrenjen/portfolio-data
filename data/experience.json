@@ -2,11 +2,27 @@
   "work_experience": [
     {
       "company": "Latent Health",
-      "title": "ML / SWE Intern",
+      "title": "Software Engineering Intern",
       "date": "Jun 2026 - Aug 2026",
       "logo": "https://krishrenjen.github.io/portfolio-data/images/latenthealth.jpg",
-      "bullets": ["Incoming Machine Learning and Software Engineering Intern"],
-      "primaryHref": "https://latenthealth.com/"
+      "bullets": [
+        "Designed **PostHog analytics pipelines** tracking thousands of daily events to isolate high-variance user overrides, directly driving product feature prioritization.",
+        "Developed **telemetry wrappers** capturing thousands of daily events, engineering **Grafana dashboards** to visualize core workflow metrics and minimize user friction.",
+        "Engineered a **local validation framework** for EPA pipelines via `LocalStack`, configuring mock `AWS` services to eliminate cloud dependencies during local development.",
+        "Built an **automated synthetic testing suite** on `AWS` to execute continuous heartbeat checks across the live EPA pipeline, mitigating deployment risks and catching silent regressions.",
+        "Architected a **DLQ observability dashboard**, surfacing critical message context via optimized metadata endpoints to eliminate redundant `SQS` polling and slash API latency by 5 seconds.",
+        "Engineered **evaluation test suites** and refined prompt design for **GLP-1 Bridge checks**, improving model accuracy, edge-case coverage, and end-user feedback quality."
+      ],
+      "primaryHref": "https://latenthealth.com/",
+      "tags": [
+        { "title": "Python", "type": "Language" },
+        { "title": "TypeScript", "type": "Language" },
+        { "title": "AWS", "type": "Tool" },
+        { "title": "LocalStack", "type": "Tool" },
+        { "title": "Grafana", "type": "Tool" },
+        { "title": "PostHog", "type": "Tool" },
+        { "title": "SQS", "type": "Tool" }
+      ]
     },
     {
       "company": "Moonpreneur",
@@ -14,15 +30,16 @@
       "date": "May 2025 - Aug 2025",
       "logo": "/exp_images/moonpreneur_logo.png",
       "bullets": [
-        "Built a **browser-based circuit and microcontroller simulator**, enabling interactive hardware experimentation with drag-and-drop components and real-time execution.",
-        "Led the **migration of the company website** from `.NET` to `Next.js`, improving scalability, maintainability, and SEO performance.",
+        "Engineered a **browser-based circuit and microcontroller simulator**, developing interactive hardware rendering layers and supporting local `Python` simulation execution.",
+        "Decoupled legacy backend monoliths by **migrating web infrastructure** from `.NET` to `Next.js`, optimizing component reusability and modernizing the frontend architecture.",
+        "Designed and secured **RESTful APIs** using `JWT` authentication and **role-based access controls**, implementing robust authorization guardrails across full-stack customer-facing applications.",
         "Developed and deployed **full-stack features** in `.NET Core` and `Next.js` with responsive UIs styled using `TailwindCSS`.",
-        "Implemented **RESTful APIs** with `JWT` authentication and **role-based access control**, securing sensitive user data.",
         "Wrote **optimized SQL queries** and **stored procedures** in `SQL Server` using `Entity Framework Core` to enhance backend performance."
       ],
       "primaryHref": "https://moonpreneur.com/",
       "tags": [
         { "title": "TypeScript", "type": "Language" },
+        { "title": "Python", "type": "Language" },
         { "title": ".NET Core", "type": "Tool" },
         { "title": "Next.js", "type": "Tool" },
         { "title": "SQL Server", "type": "Tool" },
